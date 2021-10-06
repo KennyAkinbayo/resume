@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.236daaf9.chunk.css",
-    "main.js": "/resume/static/js/main.f66af5b8.chunk.js",
-    "main.js.map": "/resume/static/js/main.f66af5b8.chunk.js.map",
+    "main.css": "/resume/static/css/main.2bee2111.chunk.css",
+    "main.js": "/resume/static/js/main.eb354881.chunk.js",
+    "main.js.map": "/resume/static/js/main.eb354881.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.b88de6fc.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.b88de6fc.js.map",
     "static/js/2.e537fc2f.chunk.js": "/resume/static/js/2.e537fc2f.chunk.js",
@@ -10,14 +10,16 @@
     "static/js/3.a0ffa410.chunk.js": "/resume/static/js/3.a0ffa410.chunk.js",
     "static/js/3.a0ffa410.chunk.js.map": "/resume/static/js/3.a0ffa410.chunk.js.map",
     "index.html": "/resume/index.html",
-    "static/css/main.236daaf9.chunk.css.map": "/resume/static/css/main.236daaf9.chunk.css.map",
+    "static/css/main.2bee2111.chunk.css.map": "/resume/static/css/main.2bee2111.chunk.css.map",
     "static/js/2.e537fc2f.chunk.js.LICENSE.txt": "/resume/static/js/2.e537fc2f.chunk.js.LICENSE.txt",
+    "static/media/Kehinde Akinola-frontEnd.398880cd.docx": "/resume/static/media/Kehinde Akinola-frontEnd.398880cd.docx",
+    "static/media/Kehinde Akinola-frontEnd.96a6e315.pdf": "/resume/static/media/Kehinde Akinola-frontEnd.96a6e315.pdf",
     "static/media/kehindeakinola.3cd60780.jpg": "/resume/static/media/kehindeakinola.3cd60780.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b88de6fc.js",
     "static/js/2.e537fc2f.chunk.js",
-    "static/css/main.236daaf9.chunk.css",
-    "static/js/main.f66af5b8.chunk.js"
+    "static/css/main.2bee2111.chunk.css",
+    "static/js/main.eb354881.chunk.js"
   ]
 }
